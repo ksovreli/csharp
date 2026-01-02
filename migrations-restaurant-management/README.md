@@ -1,28 +1,23 @@
-
----
-
-### **2️⃣ C# Book Manager - README.md**
-
-```markdown
 # C# Book Manager
 
-A **console-based Book Manager application** in C#. This project demonstrates **Object-Oriented Programming (OOP)** concepts, including classes, inheritance, and collections.
+A **console-based Book Manager application** written in C#. This project demonstrates **Object-Oriented Programming (OOP)** concepts, including classes, inheritance, and collections, while providing a simple way to manage books in the console.
 
 ---
 
 ## 📌 Features
 
-- Add, edit, and delete books
-- List all books with details (title, author, genre)
+- Add new books with title, author, and genre
+- Edit existing book details
+- Delete books from the collection
+- List all books with full details
 - Search books by title, author, or genre
-- Simple console-based user interface
-- Uses classes and objects to structure data
+- Console-based user interface for easy interaction
 
 ---
 
 ## ⚙️ Getting Started
 
-1. Clone this project:
+1. Clone this repository:
    ```bash
-   git clone https://github.com/ksovreli/CSharp.git
-   cd CSharp/csharp-book-manager
+   git clone https://github.com/ksovreli/csharp.git
+   cd csharp/migrations-restaurant-management
