@@ -27,5 +27,5 @@ A simple **Hangman game** implemented in C# console. This project demonstrates b
 
 1. Clone this project:
    ```bash
-   git clone https://github.com/ksovreli/CSharp.git
-   cd CSharp/hangman-console-game
+   git clone https://github.com/ksovreli/csharp.git
+   cd csharp/hangman-console-game
