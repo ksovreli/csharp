@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|c:\\users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|solutionrelative:mvc architecture\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|c:\\users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\views\\todolist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|solutionrelative:mvc architecture\\views\\todolist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|c:\\users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|solutionrelative:mvc architecture\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|c:\\users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\data\\todolistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|solutionrelative:mvc architecture\\data\\todolistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|c:\\users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|solutionrelative:mvc architecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|c:\\users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|solutionrelative:mvc architecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|c:\\users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\models\\entities\\todolistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|solutionrelative:mvc architecture\\models\\entities\\todolistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|c:\\users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\migrations\\20260207130625_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F41452-04C8-4E6A-9B1B-DC413F09516D}|mvc architecture\\mvc architecture.csproj|solutionrelative:mvc architecture\\migrations\\20260207130625_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\appsettings.json",
+              "RelativeDocumentMoniker": "mvc architecture\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\appsettings.json",
+              "RelativeToolTip": "mvc architecture\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-07T18:23:22.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoListContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Data\\TodoListContext.cs",
+              "RelativeDocumentMoniker": "mvc architecture\\Data\\TodoListContext.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Data\\TodoListContext.cs",
+              "RelativeToolTip": "mvc architecture\\Data\\TodoListContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:16:35.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Views\\TodoList\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvc architecture\\Views\\TodoList\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Views\\TodoList\\Create.cshtml",
+              "RelativeToolTip": "mvc architecture\\Views\\TodoList\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T13:54:26.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoListItem.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Models\\Entities\\TodoListItem.cs",
+              "RelativeDocumentMoniker": "mvc architecture\\Models\\Entities\\TodoListItem.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Models\\Entities\\TodoListItem.cs",
+              "RelativeToolTip": "mvc architecture\\Models\\Entities\\TodoListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:35:07.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Views\\TodoList\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc architecture\\Views\\TodoList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Views\\TodoList\\Index.cshtml",
+              "RelativeToolTip": "mvc architecture\\Views\\TodoList\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T13:27:58.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoListController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Controllers\\TodoListController.cs",
+              "RelativeDocumentMoniker": "mvc architecture\\Controllers\\TodoListController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Controllers\\TodoListController.cs",
+              "RelativeToolTip": "mvc architecture\\Controllers\\TodoListController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:09:39.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Program.cs",
+              "RelativeDocumentMoniker": "mvc architecture\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Program.cs",
+              "RelativeToolTip": "mvc architecture\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:06:56.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260207130625_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Migrations\\20260207130625_InitialCreate.cs",
+              "RelativeDocumentMoniker": "mvc architecture\\Migrations\\20260207130625_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\mvc architecture\\mvc architecture\\Migrations\\20260207130625_InitialCreate.cs",
+              "RelativeToolTip": "mvc architecture\\Migrations\\20260207130625_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:06:26.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

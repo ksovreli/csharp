@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\csharp\\dotnet\\InversionOfControlHw\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\csharp\\InversionOfControlHw\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFA8FD59-7F3E-4BC0-8914-C69868997F40}|InversionOfControlHw\\InversionOfControlHw.csproj|c:\\users\\admin\\source\\repos\\csharp\\dotnet\\inversionofcontrolhw\\inversionofcontrolhw\\models\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFA8FD59-7F3E-4BC0-8914-C69868997F40}|InversionOfControlHw\\InversionOfControlHw.csproj|c:\\users\\admin\\source\\repos\\csharp\\inversionofcontrolhw\\inversionofcontrolhw\\models\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFA8FD59-7F3E-4BC0-8914-C69868997F40}|InversionOfControlHw\\InversionOfControlHw.csproj|solutionrelative:inversionofcontrolhw\\models\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA8FD59-7F3E-4BC0-8914-C69868997F40}|InversionOfControlHw\\InversionOfControlHw.csproj|c:\\users\\admin\\source\\repos\\csharp\\dotnet\\inversionofcontrolhw\\inversionofcontrolhw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFA8FD59-7F3E-4BC0-8914-C69868997F40}|InversionOfControlHw\\InversionOfControlHw.csproj|c:\\users\\admin\\source\\repos\\csharp\\inversionofcontrolhw\\inversionofcontrolhw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFA8FD59-7F3E-4BC0-8914-C69868997F40}|InversionOfControlHw\\InversionOfControlHw.csproj|solutionrelative:inversionofcontrolhw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA8FD59-7F3E-4BC0-8914-C69868997F40}|InversionOfControlHw\\InversionOfControlHw.csproj|c:\\users\\admin\\source\\repos\\csharp\\dotnet\\inversionofcontrolhw\\inversionofcontrolhw\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFA8FD59-7F3E-4BC0-8914-C69868997F40}|InversionOfControlHw\\InversionOfControlHw.csproj|c:\\users\\admin\\source\\repos\\csharp\\inversionofcontrolhw\\inversionofcontrolhw\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFA8FD59-7F3E-4BC0-8914-C69868997F40}|InversionOfControlHw\\InversionOfControlHw.csproj|solutionrelative:inversionofcontrolhw\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA8FD59-7F3E-4BC0-8914-C69868997F40}|InversionOfControlHw\\InversionOfControlHw.csproj|c:\\users\\admin\\source\\repos\\csharp\\dotnet\\inversionofcontrolhw\\inversionofcontrolhw\\output\\fileoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFA8FD59-7F3E-4BC0-8914-C69868997F40}|InversionOfControlHw\\InversionOfControlHw.csproj|c:\\users\\admin\\source\\repos\\csharp\\inversionofcontrolhw\\inversionofcontrolhw\\output\\fileoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFA8FD59-7F3E-4BC0-8914-C69868997F40}|InversionOfControlHw\\InversionOfControlHw.csproj|solutionrelative:inversionofcontrolhw\\output\\fileoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FileOutput.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\dotnet\\InversionOfControlHw\\InversionOfControlHw\\Output\\FileOutput.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\InversionOfControlHw\\InversionOfControlHw\\Output\\FileOutput.cs",
               "RelativeDocumentMoniker": "InversionOfControlHw\\Output\\FileOutput.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\dotnet\\InversionOfControlHw\\InversionOfControlHw\\Output\\FileOutput.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\InversionOfControlHw\\InversionOfControlHw\\Output\\FileOutput.cs",
               "RelativeToolTip": "InversionOfControlHw\\Output\\FileOutput.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Bear.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\dotnet\\InversionOfControlHw\\InversionOfControlHw\\Models\\Bear.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\InversionOfControlHw\\InversionOfControlHw\\Models\\Bear.cs",
               "RelativeDocumentMoniker": "InversionOfControlHw\\Models\\Bear.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\dotnet\\InversionOfControlHw\\InversionOfControlHw\\Models\\Bear.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\InversionOfControlHw\\InversionOfControlHw\\Models\\Bear.cs",
               "RelativeToolTip": "InversionOfControlHw\\Models\\Bear.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,27 +65,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\dotnet\\InversionOfControlHw\\InversionOfControlHw\\Models\\Animal.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\InversionOfControlHw\\InversionOfControlHw\\Models\\Animal.cs",
               "RelativeDocumentMoniker": "InversionOfControlHw\\Models\\Animal.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\dotnet\\InversionOfControlHw\\InversionOfControlHw\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\InversionOfControlHw\\InversionOfControlHw\\Models\\Animal.cs",
               "RelativeToolTip": "InversionOfControlHw\\Models\\Animal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T21:25:54.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T21:25:54.011Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\dotnet\\InversionOfControlHw\\InversionOfControlHw\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\InversionOfControlHw\\InversionOfControlHw\\Program.cs",
               "RelativeDocumentMoniker": "InversionOfControlHw\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\dotnet\\InversionOfControlHw\\InversionOfControlHw\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\InversionOfControlHw\\InversionOfControlHw\\Program.cs",
               "RelativeToolTip": "InversionOfControlHw\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T21:21:08.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T21:21:08.341Z"
             }
           ]
         }
