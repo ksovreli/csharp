@@ -40,7 +40,10 @@ namespace API.Migrations
                     quantity = table.Column<long>(type: "bigint", nullable: false),
                     page_number = table.Column<long>(type: "bigint", nullable: false),
                     isbn = table.Column<string>(type: "nvarchar(13)", maxLength: 13, nullable: false),
-                    publisher = table.Column<string>(type: "nvarchar(200)", maxLength: 200, nullable: false)
+                    publisher = table.Column<string>(type: "nvarchar(200)", maxLength: 200, nullable: false),
+                    translator = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    language = table.Column<int>(type: "int", nullable: false),
+                    is_original = table.Column<bool>(type: "bit", nullable: false)
                 },
                 constraints: table =>
                 {

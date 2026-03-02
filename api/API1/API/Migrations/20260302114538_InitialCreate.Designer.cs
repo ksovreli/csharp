@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace API.Migrations
 {
     [DbContext(typeof(BookStoreContext))]
-    [Migration("20260301115515_InitialCreate")]
+    [Migration("20260302114538_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -80,6 +80,14 @@ namespace API.Migrations
                         .HasColumnType("nvarchar(13)")
                         .HasColumnName("isbn");
 
+                    b.Property<bool>("IsOriginal")
+                        .HasColumnType("bit")
+                        .HasColumnName("is_original");
+
+                    b.Property<int>("Language")
+                        .HasColumnType("int")
+                        .HasColumnName("language");
+
                     b.Property<long>("PageNumber")
                         .HasColumnType("bigint")
                         .HasColumnName("page_number");
@@ -107,6 +115,11 @@ namespace API.Migrations
                         .HasMaxLength(200)
                         .HasColumnType("nvarchar(200)")
                         .HasColumnName("title");
+
+                    b.Property<string>("Translator")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("translator");
 
                     b.HasKey("Id");
 

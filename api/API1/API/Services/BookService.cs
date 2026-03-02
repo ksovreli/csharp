@@ -4,41 +4,36 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Services
 {
-    public class BookService : IBooksService
+    public class BookService(BookStoreContext context) : IBooksService
     {
-        private readonly BookStoreContext _bookContext;
-
-        public BookService(BookStoreContext context)
-        {
-            _bookContext = context;
-        }
+        private readonly BookStoreContext _bookStoreContext = context;
 
         public async Task CreateAsync(Book book)
         {
-            await _bookContext.Books.AddAsync(book);
-            await _bookContext.SaveChangesAsync();
+            await _bookStoreContext.Books.AddAsync(book);
+            await _bookStoreContext.SaveChangesAsync();
         }
 
         public async Task DeleteByIdAsync(int id)
         {
-            var findBook = await _bookContext.Books.FindAsync(id);
+            var findBook = await _bookStoreContext.Books.FindAsync(id);
 
             if (findBook != null)
             {
-                _bookContext.Books.Remove(findBook);
-                await _bookContext.SaveChangesAsync();
+                _bookStoreContext.Books.Remove(findBook);
+                await _bookStoreContext.SaveChangesAsync();
             }
         }
 
         public async Task<IEnumerable<Book>> GetBooksAsync()
         {
-            var getBooks = await _bookContext.Books.ToListAsync();
+            var getBooks = await _bookStoreContext.Books.ToListAsync();
             return getBooks;
         }
 
         public async Task<Book?> GetBooksByIdAsync(int id)
         {
-            var getBooksById = await _bookContext.Books.FindAsync(id);
+            var getBooksById = await _bookStoreContext.Books.FindAsync(id);
             return getBooksById;
         }
 
@@ -49,8 +44,8 @@ namespace API.Services
                 throw new InvalidOperationException("Book ID isnt valid.");
             }
 
-            _bookContext.Entry(newBook).State = EntityState.Modified;
-            await _bookContext.SaveChangesAsync();
+            _bookStoreContext.Entry(newBook).State = EntityState.Modified;
+            await _bookStoreContext.SaveChangesAsync();
         }
     }
 }

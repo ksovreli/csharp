@@ -1,4 +1,5 @@
 using API.Data;
+using API.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,9 @@ builder.Services.AddSwaggerGen();
 
 string connectionString = builder.Configuration.GetConnectionString("BookStoreDb") ?? throw new ArgumentNullException();
 builder.Services.AddDbContext<BookStoreContext>(options => options.UseSqlServer(connectionString));
+
+builder.Services.AddScoped<IBooksService, BookService>();
+builder.Services.AddScoped<IAuthorService, AuthorService>();
 
 var app = builder.Build();
 

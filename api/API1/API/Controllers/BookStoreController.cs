@@ -36,5 +36,16 @@ namespace API.Controllers
         {
             return await _authorService.GetAuthorsAsync();
         }
+
+        [HttpGet("GetAuthorsById/{id}")]
+        public async Task<ActionResult<Author>> GetAuthorsByIdAsync(int id)
+        {
+            Author? findAuthorById = await _authorService.GetAuthorByIdAsync(id);
+            if (findAuthorById == null)
+            {
+                return NotFound();
+            }
+            return Ok(findAuthorById);
+        }
     }
 }

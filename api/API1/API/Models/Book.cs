@@ -14,6 +14,19 @@ namespace API.Models
         Drama,
         Action
     }
+
+    public enum Language
+    {
+        Japanese,
+        English,
+        Spanish,
+        French,
+        German,
+        Chinese,
+        Russian,
+        Arabic
+    }
+
     [Table("books")]
     public class Book
     {
@@ -70,5 +83,16 @@ namespace API.Models
         [StringLength(200, MinimumLength = 1)]
         public string Publisher { get; set; } = null!;
 
+        [Required]
+        [Column("translator")]
+        public string? Translator { get; set; }
+
+        [Required]
+        [Column("language")]
+        public Language Language { get; set; }
+
+        [Required]
+        [Column("is_original")]
+        public bool IsOriginal { get; set; }
     }
 }
